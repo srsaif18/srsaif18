@@ -1,4 +1,4 @@
-### Hi, I'm Stefanie! &nbsp;&nbsp;<sup>👾 &#12299;I automate ALL the things. GitOps & DataOps advocate. I test my code. Occasionally, I draw.</sup>
+### Hi, I'm Saif! &nbsp;&nbsp;<sup>👾 &#12299;I automate ALL the things. GitOps & DataOps advocate. I test my code. Occasionally, I draw.</sup>
 
 ----
 
@@ -24,20 +24,20 @@
 
 ----
 
-<a href="https://twitter.com/moertel">
-  <img align="left" alt="Stefanie's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+<a href="https://twitter.com/benignantblade">
+  <img align="left" alt="Saif's Twitter" width="20px" src="https://simpleicons.vercel.app/x/495f7e" />
 </a>
-<a href="https://www.instagram.com/moer.tel/">
-  <img align="left" alt="Stefanie's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+<a href="https://www.instagram.com/benignantblade/">
+  <img align="left" alt="Saif's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://linkedin.com/in/stefaniegrunwald">
-  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+<a href="https://www.linkedin.com/in/saifrrahman/">
+  <img align="left" alt="Saif's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
-<a href="https://moertel.tumblr.com/">
-  <img align="left" alt="Stefanie's Tumblr" width="20px" src="https://simpleicons.now.sh/tumblr/495f7e" />
+<a href="https://dribbble.com/saifrrahman">
+  <img align="left" alt="Saif's Dribbble" width="20px" src="https://simpleicons.vercel.app/dribbble/495f7e" />
 </a>
-<a href="https://behance.net/moertel">
-  <img align="left" alt="Stefanie's Behance" width="20px" src="https://simpleicons.now.sh/behance/495f7e" />
+<a href="https://www.behance.net/saifrrahman">
+  <img align="left" alt="Saif's Behance" width="20px" src="https://simpleicons.now.sh/behance/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website & Gallery : [https://moer.tel](https://moer.tel) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
+| &nbsp;&nbsp;&nbsp; Website & Gallery : [saif-ur-rahman.com](https://www.saif-ur-rahman.com/) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
