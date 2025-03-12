@@ -29,7 +29,7 @@
   <img align="left" alt="Saif's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 <a href="https://www.linkedin.com/in/srsaif18/">
-  <img align="left" alt="Saif's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img align="left" alt="Saif's LinkedIn" width="20px" src="https://simpleicons.now.sh/logmein/000" />
 </a>
 <a href="https://dribbble.com/saifrrahman">
   <img align="left" alt="Saif's Dribbble" width="20px" src="https://simpleicons.vercel.app/dribbble/495f7e" />
