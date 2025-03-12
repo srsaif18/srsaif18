@@ -28,7 +28,7 @@
 <a href="https://www.instagram.com/benignantblade/">
   <img align="left" alt="Saif's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://www.linkedin.com/in/saifrrahman/">
+<a href="https://www.linkedin.com/in/srsaif18/">
   <img align="left" alt="Saif's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 <a href="https://dribbble.com/saifrrahman">
